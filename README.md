@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Anatolii - aka Dester507
 
+## I'm a Student, Junior Full Stack Developer!
+- 🔭 I’m currently working on a Vue app with FastAPI backend!
+- 🌱 I’m currently learning Python, JS, Vue.js and few python frameworks!
+
+### Connect with me:
+[<img align="left" alt="Dester507 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/instagram.svg" />][instagram]
+
+<br />
+[instagram]: https://instagram.com/in/anatoliy.demchuk
 <!--
 **Dester507/Dester507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
