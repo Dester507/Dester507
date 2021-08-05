@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python, JS, Vue.js and few python frameworks!
 
 ### Connect with me:
-[<img align="left" alt="Dester507 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Dester507 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 [instagram]: https://instagram.com/in/anatoliy.demchuk
