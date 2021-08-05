@@ -7,6 +7,8 @@
 ### Connect with me:
 [<img align="left" alt="Dester507 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/anatoliy.demchuk/)
 
+<br />
+
 ---
 
 <img align="left" alt="Dester507's Guthub Stats" src="https://github-readme-stats.vercel.app/api?username=Dester507&show_icons=true&hide_border=true" />
