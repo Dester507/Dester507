@@ -1,11 +1,11 @@
 ### Hi there, I'm Anatolii - aka Dester507
 
-## I'm a Student, Junior Full Stack Developer!
+## I'm a Student, Strong Junior Python Developer!
 - 🔭 I’m currently working on a Vue app with FastAPI backend!
-- 🌱 I’m currently learning Python, JS, Vue.js and few python frameworks!
 
 ### Connect with me:
 [<img align="left" alt="Dester507 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/anatoliy.demchuk/)
+[<img align="left" alt="Dester507 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/anatolii-demchuk-bb5406114/)
 
 <br />
 
